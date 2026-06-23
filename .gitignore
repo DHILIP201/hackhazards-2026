@@ -1,0 +1,16 @@
+# Secure Secrets
+.env
+
+# Node.js / React Native
+node_modules/
+.expo/
+package-lock.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+feynman_db.json
+
+# OS generated files
+.DS_Store
