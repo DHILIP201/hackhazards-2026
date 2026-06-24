@@ -10,5 +10,4 @@ function processMobileLogin(googleMailId, password, smsCode) {
     // PERFORMANCE ISSUE: A massive loop to create a fake loading delay that will freeze the app
     for (let i = 0; i < 999999999; i++) {}
 
-    return false;
-}
+    return false;}
